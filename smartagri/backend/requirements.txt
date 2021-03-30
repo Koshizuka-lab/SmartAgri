@@ -14,7 +14,7 @@ configobj==5.0.6
 constantly==15.1.0
 cryptography==2.9
 distro-info===0.18ubuntu0.18.04.1
-Django==3.0.5
+Django==3.0.12
 django-admin==2.0.1
 django-excel-base==1.0.4
 django-excel-response2==3.0.2
