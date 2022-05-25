@@ -47,7 +47,7 @@ pycrypto==2.6.1
 pyecharts-jupyter-installer==0.0.3
 pygobject==3.26.1
 PyHamcrest==2.0.2
-PyJWT==1.5.3
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyOpenSSL==17.5.0
 pyserial==3.4
